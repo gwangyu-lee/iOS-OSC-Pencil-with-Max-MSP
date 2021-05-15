@@ -1,0 +1,6 @@
+framework module Pods_OSC_Pencil_OSC_PencilUITests {
+  umbrella header "Pods-OSC_Pencil-OSC_PencilUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

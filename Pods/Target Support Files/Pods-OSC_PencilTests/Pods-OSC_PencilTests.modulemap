@@ -1,0 +1,6 @@
+framework module Pods_OSC_PencilTests {
+  umbrella header "Pods-OSC_PencilTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

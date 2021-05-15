@@ -1,0 +1,20 @@
+PODS:
+  - Colorful (3.0.0)
+  - SwiftOSC (1.3.1)
+
+DEPENDENCIES:
+  - Colorful
+  - SwiftOSC
+
+SPEC REPOS:
+  trunk:
+    - Colorful
+    - SwiftOSC
+
+SPEC CHECKSUMS:
+  Colorful: 9e093edacaa9fb73512ad9da157f0707b82d2542
+  SwiftOSC: 4e22674bbd1139daf659024ab39636b8952b69f1
+
+PODFILE CHECKSUM: 7149233d8663cf94d1f54fc62e12a07afe0c2224
+
+COCOAPODS: 1.10.1
