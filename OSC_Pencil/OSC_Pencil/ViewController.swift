@@ -14,7 +14,6 @@ class ViewController: UIViewController {
     
     @IBOutlet var imgView: UIImageView!
     @IBOutlet var colorPicker: ColorPicker!
-    @IBOutlet var slAlpha: UISlider!
     @IBOutlet var slStroke: UISlider!
     
     @IBOutlet var txtIPAddress: UITextField!
@@ -67,7 +66,6 @@ class ViewController: UIViewController {
         let tap = UITapGestureRecognizer(target: self, action: #selector(UIInputViewController.dismissKeyboard))
         view.addGestureRecognizer(tap)
         
-        slAlpha.value = 1.0
         slStroke.value = 10.0
         
         
@@ -87,9 +85,6 @@ class ViewController: UIViewController {
     @IBAction func btnUDPSet(_ sender: UIButton) {
         ipAddress = txtIPAddress.text!
         port = Int(txtPort.text!) ?? 0
-    }
-    @IBAction func slChangeAlpha(_ sender: UISlider) {
-        alpha = slAlpha.value
     }
     
     @IBAction func slChangeStroke(_ sender: UISlider) {
@@ -138,8 +133,6 @@ class ViewController: UIViewController {
         oscSend("/lineColor", rgb)
         oscSend("/location", tmplocation)
         oscSend("/force", force)
-        oscSend("/alpha", String(alpha))
-        
     }
     
     override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
