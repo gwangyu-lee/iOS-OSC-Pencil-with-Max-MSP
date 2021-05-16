@@ -6,7 +6,7 @@ SwiftOSC - Copyright (c) 2017 Devin Roth (devin@devinrothmusic.com)
 
 ## How to build
 Open OSC_Pencil.xcworkspace.    
-Connect any iOS devices.    
+Connect your ipad.    
 Build it    
 
 ## Settings in iOS
