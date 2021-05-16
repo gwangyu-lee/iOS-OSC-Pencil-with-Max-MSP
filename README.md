@@ -1,8 +1,8 @@
 # iOS OSC Pencil
 Send X-Y coordinates, RGB, and stroke using an Apple Pencil with an iPad.
  
-This application contains copyrighted software under MIT License.
-SwiftOSC - Copyright (c) 2017 Devin Roth (devin@devinrothmusic.com)
+This application contains copyrighted software under MIT License.     
+SwiftOSC - Copyright (c) 2017 Devin Roth
 
 ## How to build
 Open OSC_Pencil.xcworkspace.    
