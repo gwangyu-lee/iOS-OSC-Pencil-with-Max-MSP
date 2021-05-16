@@ -4,7 +4,7 @@
 //
 //  Created by Gwan-Gyu Lee(frd.lee@icloud.com) on 2021/02/11.
 //
-//  This application contains copyrighted software under MIT License version 1.3.
+
 
 import UIKit
 
