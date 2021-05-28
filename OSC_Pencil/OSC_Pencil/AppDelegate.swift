@@ -4,6 +4,9 @@
 //
 //  Created by Gwan-Gyu Lee(frd.lee@icloud.com) on 2021/02/11.
 //
+//  This application contains copyrighted software under MIT License.     
+//  SwiftOSC - Copyright (c) 2017 Devin Roth    
+//  Colorful - Copyright (c) 2011 Ryota Hayashi
 
 import UIKit
 
