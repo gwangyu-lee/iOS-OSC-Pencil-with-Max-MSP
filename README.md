@@ -1,5 +1,5 @@
 # iOS OSC Pencil
-Send X-Y coordinates, RGB, and stroke using an Apple Pencil with an iPad.  
+Send X-Y coordinates, RGB, and stroke(force) using an Apple Pencil with an iPad.  
 
 ## How to build
 Open OSC_Pencil.xcworkspace.    
