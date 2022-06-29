@@ -1,4 +1,4 @@
-# iOS OSC Pencil
+# iOS-OSC-Pencil-with-Max-MSP
 Send X-Y coordinates, RGB, and stroke(force) using an Apple Pencil with an iPad.  
 
 ## How to build
